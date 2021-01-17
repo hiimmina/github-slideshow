@@ -7,3 +7,18 @@ int main ()
  n=h/l;
  cout<<n;
  return 0;}
+ 
+ 
+ #1260 asii
+ #include<iostream>
+using namespace std;
+int m,n,s,d,p,c;
+  int main ()
+{cin>>m>>n;
+ s=m+n;
+ d=m-n;
+ p=m*n;
+ c=m/n;
+   cout<<s<<" "<<d<<" "<<p<<" "<<c<<' ';
+ return 0;}
+
