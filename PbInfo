@@ -1,0 +1,9 @@
+#815 Lazi
+#include<iostream>
+using namespace std;
+int n,l,h;
+int main ()
+{cin>>l>>h;
+ n=h/l;
+ cout<<n;
+ return 0;}
